@@ -3,3 +3,4 @@ A random password generator created using JavaScript with a copy to clipboard fu
 
 ## Usage
 Feel free to use. Have fun!
+Live code [here](https://contigen.github.io/Random-Password-Generator/)
